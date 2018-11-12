@@ -11,6 +11,6 @@ class DoSomeStuffTest {
     void doSomeStuff() {
         DoSomeStuff doSomeStuff = new DoSomeStuff();
 
-        assertEquals("MESSAGE",doSomeStuff.doSomeStuff(),"UNEQUAL");
+        assertEquals("ESSAGE",doSomeStuff.doSomeStuff(),"UNEQUAL");
     }
 }
