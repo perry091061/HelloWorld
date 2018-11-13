@@ -2,7 +2,7 @@ package tests;
 
 
 
-import demo.DoSomeStuff;
+ 
 import junit.framework.Assert;
 import org.junit.jupiter.api.Test;
 
