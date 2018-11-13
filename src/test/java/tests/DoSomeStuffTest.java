@@ -8,7 +8,7 @@ class DoSomeStuffTest {
 
     @Test
     void doSomeStuff() {
-        // new check
+
          assertEquals("meSAGE","meSAGE");
     }
 
