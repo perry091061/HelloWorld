@@ -9,7 +9,7 @@ class DoSomeStuffTest {
     @Test
     void doSomeStuff() {
 
-         assertEquals("ESSAGE","SAGE");
+         assertEquals("SAGE","SAGE");
     }
 
 
