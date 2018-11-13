@@ -130,7 +130,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/DoSomeStuffTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -227,8 +227,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1865" />
-    <option name="y" value="36" />
+    <option name="x" value="1866" />
+    <option name="y" value="35" />
     <option name="width" value="1298" />
     <option name="height" value="665" />
   </component>
@@ -590,7 +590,7 @@
       <workItem from="1541778514944" duration="8000" />
       <workItem from="1541782139478" duration="447000" />
       <workItem from="1541783121598" duration="3525000" />
-      <workItem from="1542043378664" duration="4964000" />
+      <workItem from="1542043378664" duration="5195000" />
     </task>
     <task id="LOCAL-00001" summary="Demo">
       <created>1541784177671</created>
@@ -760,7 +760,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542114654618</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Demo">
+      <created>1542115010030</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1542115010031</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -781,10 +788,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10651000" />
+    <option name="totallyTimeSpent" value="10882000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1865" y="36" width="1298" height="665" extended-state="0" />
+    <frame x="1866" y="35" width="1298" height="665" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1106,7 +1113,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/DoSomeStuffTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
