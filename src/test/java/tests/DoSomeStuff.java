@@ -1,8 +1,9 @@
-package demo;
+package tests;
 
 public class DoSomeStuff {
     public String doSomeStuff() {
-
-        return "MESSAGE";
+        return  "Hello";
     }
+
+
 }
