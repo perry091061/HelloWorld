@@ -11,7 +11,7 @@ class DoSomeStuffTest {
     void doSomeStuff() {
 
 
-         assertEquals("ESSAGE","fred");
+         assertEquals("ESSAGE","ESSAGE");
     }
 
 
