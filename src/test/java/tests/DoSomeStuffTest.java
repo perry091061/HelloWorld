@@ -1,9 +1,6 @@
 package tests;
 
 
-
-
-import junit.framework.Assert;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -14,6 +11,6 @@ class DoSomeStuffTest {
     void doSomeStuff() {
         DoSomeStuff doSomeStuff = new DoSomeStuff();
 
-         Assert.assertEquals("MESSAGE",doSomeStuff.doSomeStuff());
+         assertEquals("MESSAGE",doSomeStuff.doSomeStuff());
     }
 }
