@@ -10,8 +10,7 @@ class DoSomeStuffTest {
     @Test
     void doSomeStuff() {
 
-
-         assertEquals("ESSAGE","ESSAGE");
+         assertEquals("ESSAGE","SAGE");
     }
 
 
